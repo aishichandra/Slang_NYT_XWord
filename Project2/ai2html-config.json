@@ -1,0 +1,40 @@
+{
+    "fonts": [
+        {
+            "aifont": "RobotoSlab-SemiBold",
+            "family": "Roboto Slab",
+            "weight": "600",
+            "style": ""
+        },
+        {
+            "aifont": "RobotoSlab-ExtraBold",
+            "family": "Roboto Slab",
+            "weight": "800",
+            "style": ""
+        },
+        {
+            "aifont": "RobotoSlab-Regular",
+            "family": "Roboto Slab",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "RobotoSlab-Black",
+            "family": "Roboto Slab",
+            "weight": "900",
+            "style": ""
+        },
+        {
+            "aifont": "RobotoSlab-Medium",
+            "family": "Roboto Slab",
+            "weight": "500",
+            "style": ""
+        },
+        {
+            "aifont": "RobotoSlab-Light",
+            "family": "Roboto Slab",
+            "weight": "300",
+            "style": ""
+        }
+    ]
+}

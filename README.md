@@ -17,7 +17,15 @@ Crosswords.ipynb was my prelim analysis (this notebook only analyzes a subset of
 Graph1, Graph2 and Graph3 are the visuals in the order as they are seen in the report. They were created in Datawrapper, edited in Illustrator and uploaded to html using ai2html.js. 
 
 ##### 4. Sources
-Apart from the sources that I have listed in the story, I messaged a few NYT Crossword constructors on Twitter who were incredibly kind with their time: Aimee Lucido, Will Nediger and Robyn Weintraub. While Aimee and Will are featured in the story, Robyn's comments were about social media and word lists -> an angle I didn't have too much time to research and explore for this piece but a important topic to address in the future
+
+<b> Sources: </b><br/>
+“Crossword Editor Opens the Door to Innovation across the Board Shortz Story.” Baltimore Sun, https://www.baltimoresun.com/news/bs-xpm-1993-11-22-1993326127-story.html. <br/>
+“In the CROSS-FIRE.” Chicago Tribune, https://www.chicagotribune.com/news/ct-xpm-1993-11-07-9311080002-story.html. <br/>
+Aronow, Isaac. “How Word Lists Help - or Hurt - Crossword Puzzles.” The New York Times, The New York Times, 6 Oct. 2021, https://www.nytimes.com/2021/10/06/crosswords/wordlists-for-constructing-puzzles.html. <br/>
+Zhou, Yanchun, and Yanhong Fan. “Home-Academy Publication.” Home-Academy Publication, Changchun University of Science and Technology, Changchun, China, https://academypublication.com/. <br/>
+“Unpack.” GRAMMARIST, 16 Apr. 2022, https://grammarist.com/new-words/unpack/. <br/>
+
+Apart from the sources that I have listed, I messaged a few NYT Crossword constructors on Twitter who were incredibly kind with their time: Aimee Lucido, Will Nediger and Robyn Weintraub. While Aimee and Will are featured in the story, Robyn's comments were about social media and word lists -> an angle I didn't have too much time to research and explore for this piece but a important topic to address in the future
 
 
 

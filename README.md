@@ -29,6 +29,7 @@ Apart from the sources that I have listed, I messaged a few NYT Crossword constr
 
 
 
+##### 5. And so much gratitude to Jessie Blaeser and Rodrigo Menegat helping me throughout this project - from brainstorming graphic ideas to editing my drafts.
 
 
 

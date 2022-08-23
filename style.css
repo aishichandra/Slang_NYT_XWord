@@ -7,6 +7,16 @@
 
 }
 
+.imagegraph{
+    max-width: 1200px;
+    padding-top: 100px;
+    margin: 0 auto;
+    align-content: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
 .intro .byline {
     font-family: 'Alfa Slab One';
     font-size: 0.875em;
@@ -21,11 +31,11 @@
     font-weight: 300;
     padding-top: 30px;
     margin: auto;
-    max-width: 850px;
+    max-width: 2000px;
 }
 
 #header_image{
-    max-width: 600px;
+    max-width: 800px;
     padding-top: 200px;
     margin: 0 auto;
     padding-left: 2rem;
@@ -58,7 +68,9 @@ p {
     line-height: 1.7;
     font-family: 'Roboto Slab';
 }
-
+.card{
+    max-width: 20%;
+}
 .chart-notes {
     font-size: 15px;
     max-width: 800px;
@@ -68,7 +80,7 @@ p {
     margin-bottom: 3em;
     
     line-height: 18px;
-    background-color: rgba(228, 179, 99, 0.1)
+    /* background-color: rgba(228, 179, 99, 0.1) */
 }
 
   
@@ -122,6 +134,7 @@ p {
 .chart{
     padding-top: 30px;
     padding-bottom: 30px;
+    /* max-width:2000px !important; */
 }
 
 .Sources{

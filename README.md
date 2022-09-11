@@ -19,8 +19,6 @@ The data analysis was done using the Python library <b>Pandas.</b> Some of the g
 Graph1, Graph2 and Graph3 are the visuals in the order as they are seen in the report. They were created in <b>Datawrapper</b>, edited in <b>Adobe Illustrator</b> and uploaded to html using <b>ai2html.js</b>. 
 <br/><br/>
 ##### 4. Sources
-
-<b> Sources: </b><br/>
 “Crossword Editor Opens the Door to Innovation across the Board Shortz Story.” Baltimore Sun, https://www.baltimoresun.com/news/bs-xpm-1993-11-22-1993326127-story.html. <br/>
 “In the CROSS-FIRE.” Chicago Tribune, https://www.chicagotribune.com/news/ct-xpm-1993-11-07-9311080002-story.html. <br/>
 Aronow, Isaac. “How Word Lists Help - or Hurt - Crossword Puzzles.” The New York Times, The New York Times, 6 Oct. 2021, https://www.nytimes.com/2021/10/06/crosswords/wordlists-for-constructing-puzzles.html. <br/>

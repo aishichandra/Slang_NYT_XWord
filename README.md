@@ -5,7 +5,9 @@ An look at how the New York Times uses slang in crossword puzzles and what it re
 
 ##### BACKGROUND
 For decades the people making decisions about what should be in the New York Times crossword have been straight white men. According to some crossword constructors, the topic of who the crossword is written for has been an active point of discussion and debate in crossword circles.
-I thought studying how slang appears in the crossword could contribute to this discussion of the crossword’s intended audience. Slang is a transitory language developed by diverse subgroups of society. Before social media and online communication, it took time for this language to enter the main culture's vocabulary. And it’s unusual for slang to remain in use for more than a few years - what is cool for one generation is old-fashioned for the next. Dated slang often drifts into obsolescence or becomes accepted into the standard language. A study of slang, when it enters the puzzle, how it enters the puzzle, who has control over how it gets defined (clued), and how this is changing over time could help shed light on the crossword culture and its actors.
+I thought studying how slang appears in the crossword could contribute to this discussion of the crossword’s intended audience. 
+<br/><br/>
+Slang is a transitory language developed by diverse subgroups of society. Before social media and online communication, it took time for this language to enter the main culture's vocabulary. And it’s unusual for slang to remain in use for more than a few years - what is cool for one generation is old-fashioned for the next. Dated slang often drifts into obsolescence or becomes accepted into the standard language. A study of slang, when it enters the puzzle, how it enters the puzzle, who has control over how it gets defined (clued), and how this is changing over time could help shed light on the crossword culture and its actors.
 <br/><br/>
 For this piece, I analyzed 46 years of crossword answers and clues, primarily looking at words that are clued with the modifiers: "slang," "colloquially," "modern lingo," "informally," and "in textspeak.”
 <br/><br/>

@@ -4,7 +4,7 @@ An look at how the New York Times uses slang in crossword puzzles and what it re
 #### <a href = "https://aishichandra.github.io/Slang_NYT_XWord/"> Read the article! </a>
 
 ##### BACKGROUND
-I enjoy doing the NYT crosswords and I get so amused when I come across words like 'DRIP', 'ACIDTRIP' or 'DEADASS' because I am imagining a proper, educated, cultured white man saying these words as I find them in the puzzle. This piece was so fun to do and you will find my wild exploration with the data in my Jupyter notebooks. 
+I enjoy solving the New York Times crossword puzzles, and I am always amused when I come across phrases like 'DRIP,' 'ACIDTRIP,' or 'DEADASS,' because I imagine a respectable, educated, cultured white man uttering these words as I find them in the puzzle. 
 
 ##### 1. Data Collection
 I wrote a method that scrapes the data using <b>BeautifulSoup</b> from XWordInfoTo for the years 1976-2022. To see how I scraped data from XWordInfo, see Python Analysis/XWordInfo_scraping.ipynb. I saved the dataframes into a csv (crossword_year_2015_2021.csv and crossword_year_2022). I chose these years because I wanted to examine how the puzzle changed after Shortz assumed his position as editor but I didn't think it was necessary to collect it all the way from 1940's (the scraping process was very slow). 

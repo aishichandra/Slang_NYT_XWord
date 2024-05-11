@@ -19,7 +19,7 @@
 
 .intro .byline {
     font-family: 'Alfa Slab One';
-    font-size: 0.875em;
+    font-size: 1.2em;
     font-weight: 200;
     margin-top: 20px
 }
@@ -58,7 +58,7 @@ body {
     color: black;
     background-size: 100%;
     padding-bottom: 100px;
-    
+    padding: 30px
   }
    
 p {
